@@ -7,7 +7,7 @@ Assignment on Node.js, React.js and Redux
  * `src` contains files.
  * `build` contains sources launched in the web browser version of Reservation System APP.
 
-## Installation
+## Installation --
 1. `git clone
 2. Navigate to directory in command-prompt/terminal
 3. Execute the command to install:  npm install
